@@ -1,0 +1,5 @@
+client:
+  xkcd:
+    host: https://xkcd.com
+  feedburner:
+    host: https://feeds.feedburner.com/
